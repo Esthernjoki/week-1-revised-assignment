@@ -1,0 +1,70 @@
+h1{
+
+    color: rgb(64, 13, 112);
+
+    text-decoration: underline;
+
+ 
+
+}
+
+ 
+
+html{
+
+    background-color: rgb(176, 236, 246);
+
+}
+
+ 
+
+body{
+
+ 
+
+    background-color:hsl(136, 6%, 63%) (0, 255, 247);
+
+
+   
+
+}
+
+ 
+
+button{
+
+ 
+
+            color: rgb(197, 117, 12);
+
+}
+
+ 
+
+label{
+
+ 
+
+            color: rgb(9, 114, 24);
+
+}
+
+ 
+
+
+
+ 
+
+.header img {
+
+    float: left;
+
+    margin-left: 0;
+
+    border-radius: 50%;
+
+    width: 80px;
+
+    height: 80px;
+
+}
